@@ -14,3 +14,4 @@ Als percentage een geheel getal is toon je dit zonder cijfers na de komma, ander
 Size en percentage zijn gescheiden door een spatie. 
 
 Dus bvb: " • 33CL 6.3%" 
+

@@ -24,3 +24,4 @@ De functie findDuplicateValues moet nu werken met een array van Integer ipv int.
 De waarde null telt niet mee als mogelijk duplicate element. 
 Pas de code en de tests aan. 
 
+

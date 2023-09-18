@@ -77,3 +77,4 @@ Maak een functie **printText** waarmee je de tekst afdrukt.
 Hoe kan je het aanpakken om ook in de tekst de juiste aantallen/enkelvoud/meervoud te printen? 
 Hoe kan formattering in de tekst aanbrengen? 
 
+
