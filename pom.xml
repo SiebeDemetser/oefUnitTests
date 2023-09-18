@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>be.thomasmore.programmeren22.skw</groupId>
-    <artifactId>unittesting_exercises_students_skw</artifactId>
+    <artifactId>unittesting_exercises</artifactId>
     <version>1.0-SNAPSHOT</version>
     <dependencies>
         <dependency>
